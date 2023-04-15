@@ -15,6 +15,14 @@ By combining multiple different types of lessons students can learn to apply pro
 
 So, if you're interested in being a part of our journey, join us as we work towards making an impact on our student body through our work. Feel free to explore our repositories and connect with us if you'd like to collaborate or have any questions.
 
+## 🤗 Sponsors
+
+We've had the pleasure of working with different companies and industry partners; we want to express our gratitude to them in this section!
+
+<a style="margin: 15px" href="https://www.blum.com/aa/en/"><img src="https://www.blum.com/corporate/layout/facelift/images/ci/logo.svg.svg" height="100px" /></a>
+<a style="margin: 15px" href="https://htldornbirn.at/"><img src="https://www.htldornbirn.at/bundles/app/website/images/htl_logo.svg" height="100px" /></a>
+
+
 ## 🚀 Join us!
 
 Join us in our journey! Let's build something great together! 🚀
