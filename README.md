@@ -1,7 +1,7 @@
-# 🧾 The Automata Hive .dotfiles
+# 🧾 The RAIOT Profile Presentation
 
-[![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/the-automata-hive/.github.git)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/the-automata-hive/.github?color=yellowgreen)
+[![GitHub version](https://img.shields.io/badge/version-v1.0.0-blue.svg)](https://github.com/raiot-dev/.github.git)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/raiot-dev/.github?color=yellowgreen)
 
 `.github` is a special repository that allows us to introduce ourselves on GitHub.
 
@@ -14,13 +14,13 @@
 Open your terminal and type in
 
 ```sh
-$ git clone https://github.com/the-automata-hive/.github.git
+$ git clone https://github.com/raiot-dev/.github.git
 ```
 
 ## 🐛 Issues
 
 If you have questions, feature requests or a bug you want to report, please click
-[here](https://github.com/the-automata-hive/.github/issues) to file an issue.
+[here](https://github.com/raiot-dev/.github/issues) to file an issue.
 
 ## 🖊️ Author
 
